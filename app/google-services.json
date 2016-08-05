@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1085569136217",
+    "firebase_url": "https://project-4746738301659275537.firebaseio.com",
+    "project_id": "project-4746738301659275537",
+    "storage_bucket": "project-4746738301659275537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085569136217:android:0773010dcca759f0",
+        "android_client_info": {
+          "package_name": "belarus.angellab.by.hellobelarus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085569136217-dnmds7gtvg2fq9gmb1g4jqm7lftv6p8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8KpQWeAX5XjjUfr0CMNGvOchJOnFpMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
